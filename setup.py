@@ -14,7 +14,7 @@ setup(
         'netCDF4==1.5.6',
         'scipy==1.5.4',
         'matplotlib==3.3.4',
-        'pandas==1.1.5',
+        'pandas', # pandas-1.1.5
         'more-itertools==8.7.0',
     ],
     keywords='radar aeroecology ecology weather',
